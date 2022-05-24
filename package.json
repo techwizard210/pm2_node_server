@@ -1,0 +1,26 @@
+{
+  "name": "template-backend",
+  "version": "1.0.0",
+  "description": "template-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOLAR-STORM-GAMING/template-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOLAR-STORM-GAMING/template-backend/issues"
+  },
+  "homepage": "https://github.com/SOLAR-STORM-GAMING/template-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
