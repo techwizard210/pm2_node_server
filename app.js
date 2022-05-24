@@ -14,4 +14,4 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 app.get('*', (req, res) => { res.sendFile(path.join(__dirname, 'client/index.html')) })
 
-server.listen(5000, () => {console.log(`Started server on => http://localhost:${5000}`)})
+server.listen(8000, () => {console.log(`Started server on => http://localhost:${8000}`)})
