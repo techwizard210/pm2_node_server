@@ -1,5 +1,0 @@
-body
-fur
-eyes
-mouth
-accessorie
